@@ -55,7 +55,7 @@ public class Duanoop {
         System.out.println("2.Xoa 1 hoc sinh ");
         System.out.println("3.Xuat danh sach hoc sinh ");
         System.out.println("4.Tim kiem hoc sinh ");   
-        System.out.println("5.Sap xep hoc sinnh ");
+        System.out.println("5.Sap xep hoc sinh ");
     }   
     public void nhapluachonhs(){
     System.out.println("Nhap lua chon cua ban :");
